@@ -1,4 +1,4 @@
-# tela-de-login-melhorada-inregrator-desk
+# tela-de-login-melhorada-integrator-desk
 Refiz a tela de login do software integrator desktop, com widgets (controls) do python flet (flutter)
 
 Tela antiga:
